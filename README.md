@@ -38,7 +38,7 @@ I'm currently learning and building hands-on labs around:
 |---------------|--------|
 | ✅ MCSA        | Achieved |
 | 🎯 MD-102 (Microsoft) | In Progress |
-| 🎯 NSE4 (Fortinet)     | Target: Oct 2025 |
+| 🎯 NSE4 (Fortinet)     | Learning Phase |
 | 🎯 Linux Essentials    | Ongoing |
 | 🎯 **Qualys Vulnerability Management** | Learning Phase |
 
